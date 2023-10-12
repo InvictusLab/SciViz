@@ -1,7 +1,6 @@
 {
   "name": "sciviz",
   "version": "0.0.0",
-  "private": true,
   "description": "Scientific visualization for understanding complex data",
   "scripts": {
     "dev": "vite",
